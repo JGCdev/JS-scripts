@@ -13,4 +13,4 @@ console.relog('message', 4) // Important
 ```
 
 
-![alt text](https://github.com/JGCdev/JS-Console-Colors/blob/master/example/log.png)
+![alt text](https://github.com/JGCdev/JS-scripts/blob/master/02-console-colors/example/log.png)
